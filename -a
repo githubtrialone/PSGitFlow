@@ -1,0 +1,64 @@
+commit 28b14eaa934b9b7ec690aa9b8eda43a3ecede54c
+Merge: caa4294 131110c
+Author: Shubham Harnal <shubham.harnal@live.com>
+Date:   Thu Jul 21 11:05:39 2016 +0200
+
+    Merge branch 'master' of github.com:githubtrialone/PSGitFlow
+
+commit caa429433d76e5e5b287139aeb258f44b86561e3
+Author: Shubham Harnal <shubham.harnal@live.com>
+Date:   Thu Jul 21 10:59:30 2016 +0200
+
+    Initial commit
+
+commit 131110cb04b4e5f54fed27427a5b0c789f7f0457
+Author: Kevin Jones <kevin@rocksolidknowledge.com>
+Date:   Mon Dec 14 00:30:27 2015 +0000
+
+    Added comment
+
+commit dc3f12e7cd019838092183bbdcf9671d4f5f9bd6
+Author: Kevin Jones <kevin@rocksolidknowledge.com>
+Date:   Mon Dec 14 00:29:06 2015 +0000
+
+    Added comment
+
+commit a463b747fc84a525fe14b9a56785f15f55455b2e
+Author: Kevin Jones <kevin@rocksolidknowledge.com>
+Date:   Mon Dec 14 00:23:13 2015 +0000
+
+    Extra brace
+
+commit d5b01cfafcfe2dc83d62025910adfffc54e3c041
+Merge: 61a59fd b59c503
+Author: Kevin Jones <kevin@rocksolidknowledge.com>
+Date:   Sun Dec 13 23:48:52 2015 +0000
+
+    Merge branch 'hotfix/hf1'
+
+commit b59c5036ea72c9890796bcf314fdc4fde991abc4
+Author: Kevin Jones <kevin@rocksolidknowledge.com>
+Date:   Sun Dec 13 23:48:25 2015 +0000
+
+    Hot fix changes
+
+commit 61a59fd673f50bac8b8d290d8977cf6221cc4cc3
+Merge: d2e7d77 f4ba7cb
+Author: kevinrjones <kevinj@mantiso.com>
+Date:   Sat Nov 28 02:42:16 2015 +0000
+
+    Merge pull request #1 from kevinrjones/develop
+    
+    Updated gradle
+
+commit f4ba7cbcca2a2bca2b795a3a8b5efe286d9541a2
+Author: Kevin Jones <kevin@rocksolidknowledge.com>
+Date:   Sat Nov 28 02:41:20 2015 +0000
+
+    Updated gradle
+
+commit d2e7d7790fa204e31ed889d38d60fb43e5361e0c
+Author: Kevin Jones <kevinj@mantiso.com>
+Date:   Sun Nov 8 08:01:03 2015 +0000
+
+    Initial commit
